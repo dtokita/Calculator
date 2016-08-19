@@ -2,6 +2,11 @@
 
 iOS Calculator Project
 
+Original Features:
+- 4 Standard Operation
+- 0 through 9 digits
+- Square Root and Cosine Functions
+- 2 constants, Pi and e
+
 Updates:
-August 18th, 2016 -
-  First upload of prototype
+- Floating point numbers
